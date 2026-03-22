@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Amine%20Sellami&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Vision%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohamed%20Amine%20Sellami&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Visual%20Computing%20Student&descAlignY=58&descSize=16&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;Computer+Vision+%26+OpenCV+Projects+%F0%9F%91%81%EF%B8%8F;React+%7C+Python+%7C+Tailwind+CSS;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=M1+Visual+Computing+@+USTHB+%F0%9F%8E%93;Computer+Vision+%26+OpenCV+%F0%9F%91%81%EF%B8%8F;React+%7C+Python+%7C+Tailwind+CSS;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,8 +25,8 @@ developer = {
     "name":       "Mohamed Amine Sellami",
     "alias":      "am11iin",
     "location":   "Algiers, Algeria 🇩🇿",
-    "university": "USTHB — University of Science and Technology Houari Boumediene",
-    "focus":      ["Web Development", "Computer Vision", "UI/UX"],
+    "degree":     "Master 1 — Visual Computing @ USTHB",
+    "focus":      ["Computer Vision", "Web Development", "UI/UX"],
     "currently":  "Building cool stuff with React & Python",
     "fun_fact":   "I blur faces for privacy AND hike mountains for fun 🏔️"
 }
@@ -34,26 +34,37 @@ developer = {
 
 ---
 
-## ⚡ Skills & Expertise
-```
-◆ FRONTEND DEVELOPMENT
-  React.js          ████████████████████░░░░   85%
-  JavaScript        ███████████████████░░░░░░   80%
-  HTML / CSS        █████████████████████░░░░   88%
-  Tailwind CSS      ████████████████████░░░░░   82%
-  Vite              ████████████████░░░░░░░░░   68%
-  Framer Motion     ███████████████░░░░░░░░░░   63%
+## 🎓 Education
 
-◆ PYTHON & COMPUTER VISION
-  Python            █████████████████████░░░░   87%
-  OpenCV            ████████████████████░░░░░   82%
-  MediaPipe         ████████████████░░░░░░░░░   67%
+**Master 1 — Visual Computing**  
+🏛️ University of Science and Technology Houari Boumediene *(USTHB)* — Algiers, Algeria
 
-◆ SYSTEMS & TOOLS
-  C / C++           ████████████████░░░░░░░░░   65%
-  Git / GitHub      █████████████████████░░░░   88%
-  VS Code           ██████████████████████░░░   90%
-```
+---
+
+## ⚡ Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+## 🧠 Python & Computer Vision
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 🛠️ Systems & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
